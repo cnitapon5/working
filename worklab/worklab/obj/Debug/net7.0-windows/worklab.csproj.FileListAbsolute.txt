@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\bin\Debug\net7.0-windows\worklab.exe
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\bin\Debug\net7.0-windows\worklab.deps.json
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\bin\Debug\net7.0-windows\worklab.runtimeconfig.json
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\bin\Debug\net7.0-windows\worklab.dll
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\bin\Debug\net7.0-windows\worklab.pdb
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.Form1.resources
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.dll
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\refint\worklab.dll
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.pdb
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\worklab.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\lab_Calculator\worklab\worklab\obj\Debug\net7.0-windows\ref\worklab.dll
